@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  ServerList.cpp
+  win.cpp
+  sys2.cpp
+  CharSignDay.cpp
+  Turntable.cpp
+  ai_setting.cpp
+  battlemenu.cpp
+  battleproc.cpp
+  chat.cpp
+  field.cpp
+  gamemain.cpp
+  help.cpp
+  login.cpp
+  lssproto_util.cpp
+  magicitem.cpp
+  main.cpp
+  map.cpp
+  menu.cpp
+  menu2.cpp
+  netmain.cpp
+  Generating Code...
+  Compiling...
+  netproc.cpp
+  onlinegm.cpp
+  pc.cpp
+  process.cpp
+  savedata.cpp
+  shop.cpp
+  common.cpp
+  Generating Code...
+  石器源码.vcxproj -> D:\stoneAge\client\sa25.exe
